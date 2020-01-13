@@ -20,19 +20,19 @@ Introduction
 
 In this document we layout the IT approach to the Rubin Observatory  construction. It will refer to other specific tech notes for details. 
 
-We wish to build a modern approach to IT just close enough to the cutting edge to allow us remain current at the start of operations but perferably not quite the bleeding edge. 
+We wish to build a modern approach to IT just close enough to the cutting edge to allow us remain current at the start of operations but preferably not quite the bleeding edge. 
 To best support deployment we must have an element of research and development in the IT team.
 
 Areas of work
 =============
-Perhpas a section each on 
+Perhaps a section each on 
 - Desktop Support
 - Networking
 - Base Data Center
 - Summit
 - Monitoring
-- Deployment  - puppet, K8S, IAP, LDAP 
-- Authentication and Authorisation
+- Deployment  - puppet, K8S, IPA, LDAP 
+- Authentication and Authorization
 
 Interactions/Interface
 =====================
