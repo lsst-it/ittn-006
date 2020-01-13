@@ -33,6 +33,10 @@ Perhaps a section each on
 - Monitoring
 - Deployment  - puppet, K8S, IPA, LDAP 
 - Authentication and Authorization
+- Storage
+- Cybersecurity
+- Backup
+- Video Conference
 
 Interactions/Interface
 =====================
