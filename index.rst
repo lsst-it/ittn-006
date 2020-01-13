@@ -23,9 +23,15 @@ In this document we layout the IT approach to the Rubin Observatory  constructio
 We wish to build a modern approach to IT just close enough to the cutting edge to allow us remain current at the start of operations but preferably not quite the bleeding edge. 
 To best support deployment we must have an element of research and development in the IT team.
 
+Organization
+============
+IT north and south and interactions. 
+Weekly tag up Monday. 
+
 Areas of work
 =============
-Perhaps a section each on 
+Perhaps a section each on :
+
 - Desktop Support
 - Networking
 - Base Data Center
