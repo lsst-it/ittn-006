@@ -30,19 +30,45 @@ Weekly tag up Monday.
 
 Areas of work
 =============
-Perhaps a section each on :
 
-- Desktop Support
-- Networking
-- Base Data Center
-- Summit
-- Monitoring
-- Deployment  - puppet, K8S, IPA, LDAP 
-- Authentication and Authorization
-- Storage
-- Cybersecurity
-- Backup
-- Video Conference
+Desktop Support
+---------------
+
+Networking
+----------
+
+Base Data Center
+----------------
+
+Summit
+------
+
+Monitoring
+----------
+
+Deployment
+----------
+puppet, K8S, IPA, LDAP 
+
+Authentication and Authorization
+--------------------------------
+
+Storage
+-------
+
+Cybersecurity
+-------------
+IT will ensure to secure and protect technological resources of the Rubin Observatory, using industry standards, best practices, and cybersecurity policies.
+We will focus our efforts in to keep confidentiality and integrity of the information, but also to increase the cybersecurity awareness of the users. 
+
+We will enforce policies and keep systems up to date to strengthen the security of data and systems.
+
+
+Backup
+------
+
+Video Conference
+----------------
 
 Interactions/Interface
 =====================
