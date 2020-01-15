@@ -30,6 +30,7 @@ Weekly tag up Monday.
 
 Areas of work
 =============
+Some of this may lead to updates to [LSE-309]_.
 
 Desktop Support
 ---------------
@@ -75,6 +76,8 @@ Interactions/Interface
 - T&S
 - DM
 - OIR LAB
+
+.. include:: openissues.rst
 .. .. rubric:: References
 .. Make in-text citations with: :cite:`bibkey`.
 
