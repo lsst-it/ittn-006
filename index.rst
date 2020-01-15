@@ -78,8 +78,7 @@ Interactions/Interface
 - OIR LAB
 
 .. include:: openissues.rst
-.. .. rubric:: References
-.. Make in-text citations with: :cite:`bibkey`.
+.. rubric:: References
 
 .. bibliography:: local.bib lsstbib/books.bib lsstbib/lsst.bib lsstbib/lsst-dm.bib lsstbib/refs.bib lsstbib/refs_ads.bib
-..    :style: lsst_aa
+   :style: lsst_aa
