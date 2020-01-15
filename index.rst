@@ -30,7 +30,7 @@ Weekly tag up Monday.
 
 Areas of work
 =============
-Some of this may lead to updates to [LSE-309]_.
+Some of this may lead to updates to :cite:`LSE-309`.
 
 Desktop Support
 ---------------
@@ -81,5 +81,5 @@ Interactions/Interface
 .. .. rubric:: References
 .. Make in-text citations with: :cite:`bibkey`.
 
-.. .. bibliography:: local.bib lsstbib/books.bib lsstbib/lsst.bib lsstbib/lsst-dm.bib lsstbib/refs.bib lsstbib/refs_ads.bib
+.. bibliography:: local.bib lsstbib/books.bib lsstbib/lsst.bib lsstbib/lsst-dm.bib lsstbib/refs.bib lsstbib/refs_ads.bib
 ..    :style: lsst_aa
