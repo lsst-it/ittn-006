@@ -34,28 +34,62 @@ Some of this may lead to updates to :cite:`LSE-309`.
 
 Desktop Support
 ---------------
+- Hardware and software support to users.
+- Installation of Rubin Observatory licensed software and provisioning of end user systems. 
+- Follow policies and procedures, but also contribute to the creation of new ones
 
 Networking
 ----------
+- Logical design
+- Redundant links
+- High troughput 
+- Wired and Wireless (802.1x)
 
 Base Data Center
 ----------------
+- Logical design architecture
+- Large capacity data center
+- Access control
+- Shared with AURA
 
-Summit
-------
+Summit Data Center
+------------------
+- Logical design architecture
+- Access control
 
 Monitoring
 ----------
+- Network monitoring
+- Server monitoring
+- Service monitoring
+- Environmental variables (Comp. Room) monitoring
+- Cybersecurity threats detection
+- Centralized log servers
+- Notifications of outages.
+- Premptive alarms
 
 Deployment
 ----------
-puppet, K8S, IPA, LDAP 
+- Infrastructure automation
+- Configuration management
+- Open source and licensed based software. 
+- Automated user provisioning
+- Rapidly scalable platform
+- Highly available system
 
 Authentication and Authorization
 --------------------------------
+- Cybersecurity plan compliant 
+- 2FA 
+- Single account across multiple systems.
+- Admin privileges via escalation (sudo)
 
 Storage
 -------
+- Highly available system
+- High performance system
+- Flexible and reliable storage.
+- Central location for users and systems storage
 
 Cybersecurity
 -------------
@@ -64,12 +98,18 @@ We will focus our efforts in to keep confidentiality and integrity of the inform
 
 We will enforce policies and keep systems up to date to strengthen the security of data and systems.
 
-
 Backup
 ------
+- Data protection
+- Disaster Recovery 
+- Automated multiplatform protection
+- File and system recovery.
 
 Video Conference
 ----------------
+- Conference rooms and support for mobility. 
+- Reachable from outside
+- Support for meetings and collaboration. 
 
 Interactions/Interface
 =====================
