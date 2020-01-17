@@ -23,36 +23,24 @@ In this document we layout the IT approach to the Rubin Observatory  constructio
 We wish to build a modern approach to IT just close enough to the cutting edge to allow us remain current at the start of operations but preferably not quite the bleeding edge. 
 To best support deployment we must have an element of research and development in the IT team.
 
+The general Cyber Infrastructure approach of LSST is layered as in the diagram :ref:`Cyber Infrastructure <fig-ci-lsst>` from :cite:`2019arXiv190713060O`
+
+
+.. figure:: images/CI-LSST.png
+   :name: fig-ci-lsst
+   :alt: Vera Rubin Observatory Cyber Infrastructure stack.
+
+Vera Rubin Observatory Cyber Infrastructure stack.
+
 Organization
 ============
 IT north and south and interactions. 
 Weekly tag up Monday. 
 
+The physical locations are discussed in :ref:`<physicallocs>`
 
-Physical Locations
-==================
-Networking
-----------
-- Logical design
-- Redundant links
-- High throughput 
-- Wired and Wireless (802.1x)
 
-Base Data Center
-----------------
-- Logical design architecture
-- Large capacity data center
-- Access control
-- Shared with AURA
-
-Summit Data Center
-------------------
-- Logical design architecture
-- Access control
-
-Tucson Lab(s)
--------------
-These should resemble Chile as much as possible in terms of network and deployment.
+.. include:: physical.rst
  
 
 Areas of work
@@ -120,7 +108,7 @@ Video Conference
 - Support for meetings and collaboration. 
 
 Interactions/Interface
-=====================
+======================
 - T&S
 - DM
 - OIR LAB
