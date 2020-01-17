@@ -28,21 +28,14 @@ Organization
 IT north and south and interactions. 
 Weekly tag up Monday. 
 
-Areas of work
-=============
-Some of this may lead to updates to :cite:`LSE-309`.
 
-Desktop Support
----------------
-- Hardware and software support to users.
-- Installation of Rubin Observatory licensed software and provisioning of end user systems. 
-- Follow policies and procedures, but also contribute to the creation of new ones
-
+Physical Locations
+==================
 Networking
 ----------
 - Logical design
 - Redundant links
-- High troughput 
+- High throughput 
 - Wired and Wireless (802.1x)
 
 Base Data Center
@@ -57,6 +50,21 @@ Summit Data Center
 - Logical design architecture
 - Access control
 
+Tucson Lab(s)
+-------------
+These should resemble Chile as much as possible in terms of network and deployment.
+ 
+
+Areas of work
+=============
+Some of this may lead to updates to :cite:`LSE-309`.
+
+Desktop Support
+---------------
+- Hardware and software support to users.
+- Installation of Rubin Observatory licensed software and provisioning of end user systems. 
+- Follow policies and procedures, but also contribute to the creation of new ones
+
 Monitoring
 ----------
 - Network monitoring
@@ -66,7 +74,7 @@ Monitoring
 - Cybersecurity threats detection
 - Centralized log servers
 - Notifications of outages.
-- Premptive alarms
+- Preemptive alarms
 
 Deployment
 ----------
@@ -102,7 +110,7 @@ Backup
 ------
 - Data protection
 - Disaster Recovery 
-- Automated multiplatform protection
+- Automated multi-platform protection
 - File and system recovery.
 
 Video Conference
