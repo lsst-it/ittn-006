@@ -42,10 +42,18 @@ The physical locations are discussed in :ref:`<physicallocs>`
 
 .. include:: physical.rst
  
+.. include:: telescope.rst
 
 Areas of work
 =============
 Some of this may lead to updates to :cite:`LSE-309`.
+
+Networking
+----------
+- Logical design
+- Redundant links
+- High throughput
+- Wired and Wireless (802.1x)
 
 Desktop Support
 ---------------

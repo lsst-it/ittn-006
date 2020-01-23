@@ -3,13 +3,6 @@
 
 Physical Locations
 ==================
-Networking
-----------
-- Logical design
-- Redundant links
-- High throughput 
-- Wired and Wireless (802.1x)
-
 Base Data Center
 ----------------
 - Logical design architecture
@@ -21,6 +14,7 @@ Summit Data Center
 ------------------
 - Logical design architecture
 - Access control
+- Summit Independence
 
 Tucson Lab(s)
 -------------
