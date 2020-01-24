@@ -60,6 +60,7 @@ Desktop Support
 - Hardware and software support to users.
 - Installation of Rubin Observatory licensed software and provisioning of end user systems. 
 - Follow policies and procedures, but also contribute to the creation of new ones
+- Keep up to date Inventory
 
 Monitoring
 ----------
@@ -87,6 +88,9 @@ Authentication and Authorization
 - 2FA 
 - Single account across multiple systems.
 - Admin privileges via escalation (sudo)
+- Unified identity system
+- Flat policy system
+- Reasonable delegation and self service
 
 Storage
 -------
@@ -94,6 +98,7 @@ Storage
 - High performance system
 - Flexible and reliable storage.
 - Central location for users and systems storage
+- Multi-tiers
 
 Cybersecurity
 -------------
@@ -108,12 +113,15 @@ Backup
 - Disaster Recovery 
 - Automated multi-platform protection
 - File and system recovery.
+- Virtual Tape Library
 
 Video Conference
 ----------------
 - Conference rooms and support for mobility. 
 - Reachable from outside
 - Support for meetings and collaboration. 
+
+.. include:: telescope.rst
 
 Interactions/Interface
 ======================
