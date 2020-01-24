@@ -121,7 +121,7 @@ Video Conference
 - Reachable from outside
 - Support for meetings and collaboration. 
 
-.. include:: telescope.rst
+.. include:: documentation.rst
 
 Interactions/Interface
 ======================
