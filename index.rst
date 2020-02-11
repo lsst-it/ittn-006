@@ -31,13 +31,13 @@ The general Cyber Infrastructure approach of LSST is layered as in the diagram :
    :alt: Vera Rubin Observatory Cyber Infrastructure stack.
 
 Vera Rubin Observatory Cyber Infrastructure stack.
-
+.. Original https://drive.google.com/open?id=16w5WVe-_xNLXWudNKqJu9IEKGDQ8oIB0eDiqWP_SUnE
 Organization
 ============
 IT north and south and interactions. 
 Weekly tag up Monday. 
 
-The physical locations are discussed in :ref:`<physicallocs>`
+The physical locations are discussed in :ref:`physicallocs`
 
 
 .. include:: physical.rst
