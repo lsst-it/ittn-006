@@ -6,6 +6,7 @@ SPHINXOPTS    = -n
 SPHINXBUILD   = sphinx-build
 PAPER         =
 BUILDDIR      = _build
+txt           = $(wildcard *.rst)
 
 # User-friendly check for sphinx-build
 ifeq ($(shell which $(SPHINXBUILD) >/dev/null 2>&1; echo $$?), 1)
@@ -56,3 +57,7 @@ refresh-bib:
 	refresh-lsst-bib -d lsstbib
 	@echo
 	@echo "Commit the new bibliographies: git add lsstbib && git commit -m \"Update bibliographies.\""
+
+acronyms.txt :$(txt) myacronyms.txt skipacronyms.txt 
+	generateAcronyms.py -t "IT LSST" -r $(txt) 
+

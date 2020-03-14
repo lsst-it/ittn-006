@@ -55,6 +55,9 @@ Interactions/Interface
 - OIR LAB
 
 .. include:: openissues.rst
+
+.. include:: acronyms.txt 
+
 .. rubric:: References
 
 .. bibliography:: local.bib lsstbib/books.bib lsstbib/lsst.bib lsstbib/lsst-dm.bib lsstbib/refs.bib lsstbib/refs_ads.bib
