@@ -56,7 +56,7 @@ Interactions/Interface
 
 .. include:: openissues.rst
 
-.. include:: acronyms.txt 
+.. include:: acronyms.rst 
 
 .. rubric:: References
 
