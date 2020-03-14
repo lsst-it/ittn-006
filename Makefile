@@ -59,5 +59,5 @@ refresh-bib:
 	@echo "Commit the new bibliographies: git add lsstbib && git commit -m \"Update bibliographies.\""
 
 acronyms.txt :$(txt) myacronyms.txt skipacronyms.txt 
-	generateAcronyms.py -t "IT LSST" -r $(txt) 
+	generateAcronyms.py -m rst -t "IT LSST"  $(txt) 
 
