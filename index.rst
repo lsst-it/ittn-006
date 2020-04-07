@@ -35,8 +35,17 @@ Vera Rubin Observatory Cyber Infrastructure stack.
 
 Organization
 ============
-IT north and south and interactions. 
-Weekly tag up Monday. 
+IT North and South and interactions. 
+- Weekly tag up Monday. 
+
+IT South
+- Daily group standup
+- Weekly Devops standup
+- Weekly IT group meeting
+- Monthly tickets clean up meeting
+
+IT North
+- 
 
 The physical locations are discussed in :ref:`physicallocs`
 

@@ -28,15 +28,7 @@ Deployment
 - Highly available system
 - Orchestration
 
-Authentication and Authorization
---------------------------------
-- Cybersecurity plan compliant
-- 2FA
-- Single account across multiple systems.
-- Admin privileges via escalation (sudo)
-- Unified identity system
-- Flat policy system
-- Reasonable delegation and self service
+.. include:: areas/authentication.rst
 
 Storage
 -------
