@@ -16,16 +16,7 @@ Desktop Support
 - Follow policies and procedures, but also contribute to the creation of new ones
 - Keep up to date Inventory
 
-Monitoring
-----------
-- Network monitoring
-- Server monitoring
-- Service monitoring
-- Environmental variables (Comp. Room) monitoring
-- Cybersecurity threats detection
-- Centralized log servers
-- Notifications of outages.
-- Preemptive alarms
+.. include:: areas/monitoring.rst
 
 Deployment
 ----------
