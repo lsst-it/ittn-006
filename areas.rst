@@ -29,13 +29,27 @@ Monitoring
 
 Deployment
 ----------
-- Infrastructure automation
-- Configuration management
-- Open source and licensed based software.
-- Automated user provisioning
-- Rapidly scalable platform
-- Highly available system
-- Orchestration
+The goal of Rubin IT is to provide a modern deployment environment using
+industry standard tools. This includes:
+- Infrastructure automation  using Puppet
+- Orchestration using Kubernetes
+- Automated user provisioning using FreeIPA [#]_
+ 
+
+The aims is to provide :
+- Highly available system   (using redundancy) 
+- A rapidly scalable platform
+
+The project in general favors open source software but uses licensed software when that is the best option. 
+
+See also :cite:`ITTN-002`
+
+.. [#] https://www.freeipa.org
+
+
+Configuration management
+------------------------
+
 
 Authentication and Authorization
 --------------------------------

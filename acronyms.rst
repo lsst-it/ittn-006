@@ -1,16 +1,21 @@
 .. _table-label: 
+
 ======= ===========
 Acronym	Description
 ======= ===========
 AURA	Association of Universities for Research in Astronomy
 CI	Continuous Integration
 DAC	Data Access Center
+DF	Data Facility
 DM	Data Management
 DOI	Digital Object Identifier
 IT	Information Technology
+ITIL	Information Technology Infrastructure Library
 ITTN	IT Tech Note (Document Handle)
 LSE	LSST Systems Engineering (Document Handle)
 LSST	Legacy Survey of Space and Time (formerly Large Synoptic Survey Telescope)
+OIR	Optical Infrared
+SQuaRE	Science Quality and Reliability Engineering
 T\&S	Telescope and Site
 URL	Universal Resource Locator
 VRO	(not to be used)Vera C. Rubin Observatory
