@@ -3,12 +3,7 @@
 
 Physical Locations
 ==================
-Base Data Center
-----------------
-- Logical design architecture
-- Large capacity data center
-- Access control
-- Shared with AURA
+.. include:: physical/basedata.rst
 
 Summit Data Center
 ------------------
