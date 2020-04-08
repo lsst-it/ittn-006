@@ -2,6 +2,7 @@
 ======= ===========
 Acronym	Description
 ======= ===========
+2FA	Two-factor authentication
 AURA	Association of Universities for Research in Astronomy
 CI	Continuous Integration
 DAC	Data Access Center
