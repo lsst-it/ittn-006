@@ -9,12 +9,7 @@ Networking
 - High throughput
 - Wired and Wireless (802.1x)
 
-Desktop Support
----------------
-- Hardware and software support to users.
-- Installation of Rubin Observatory licensed software and provisioning of end user systems.
-- Follow policies and procedures, but also contribute to the creation of new ones
-- Keep up to date Inventory
+.. include:: areas/desktop.rst
 
 .. include:: areas/monitoring.rst
 
