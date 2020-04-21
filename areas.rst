@@ -13,15 +13,7 @@ Networking
 
 .. include:: areas/monitoring.rst
 
-Deployment
-----------
-- Infrastructure automation
-- Configuration management
-- Open source and licensed based software.
-- Automated user provisioning
-- Rapidly scalable platform
-- Highly available system
-- Orchestration
+.. include:: areas/infrastructure.rst
 
 .. include:: areas/authentication.rst
 
