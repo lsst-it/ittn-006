@@ -32,13 +32,7 @@ We will focus our efforts in to keep confidentiality and integrity of the inform
 
 We will enforce policies and keep systems up to date to strengthen the security of data and systems.
 
-Backup
-------
-- Data protection
-- Disaster Recovery
-- Automated multi-platform protection
-- File and system recovery.
-- Virtual Tape Library
+.. include:: areas/backup.rst
 
 Video Conference
 ----------------
