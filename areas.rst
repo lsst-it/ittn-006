@@ -2,12 +2,7 @@ Areas of work
 =============
 Some of this may lead to updates to :cite:`LSE-309`.
 
-Networking
-----------
-- Logical design
-- Redundant links
-- High throughput
-- Wired and Wireless (802.1x)
+.. include:: areas/network.rst
 
 .. include:: areas/desktop.rst
 
