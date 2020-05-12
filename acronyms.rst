@@ -3,6 +3,7 @@
 ======= ===========
 Acronym	Description
 ======= ===========
+2FA	Two-factor authentication
 AURA	Association of Universities for Research in Astronomy
 CI	Continuous Integration
 DAC	Data Access Center
@@ -17,6 +18,8 @@ LSST	Legacy Survey of Space and Time (formerly Large Synoptic Survey Telescope)
 OIR	Optical Infrared
 SQuaRE	Science Quality and Reliability Engineering
 T\&S	Telescope and Site
+TOR	Top Of the Rack
+UPS	Uninterruptible power supply
 URL	Universal Resource Locator
 VRO	(not to be used)Vera C. Rubin Observatory
 ======= ===========

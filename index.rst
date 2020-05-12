@@ -51,6 +51,20 @@ discuss issues concerning IT in general.
 
 The IT manager south, DF Manager, T&S Software Manager and DM SQuaRE manager tag up with the deputy project manager for software to discuss cross cutting issues and priorities. 
 
+IT North and South and interactions
+----------------------------------- 
+- Weekly tag up Monday 
+
+IT South
+--------
+- Daily group standup
+- Weekly Devops standup
+- Weekly IT group meeting
+- Monthly tickets clean up meeting
+
+IT North
+--------
+- 
 
 The physical locations are discussed in :ref:`physicallocs`
 

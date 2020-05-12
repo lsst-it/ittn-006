@@ -2,30 +2,11 @@ Areas of work
 =============
 Some of this may lead to updates to :cite:`LSE-309`.
 
-Networking
-----------
-- Logical design
-- Redundant links
-- High throughput
-- Wired and Wireless (802.1x)
+.. include:: areas/network.rst
 
-Desktop Support
----------------
-- Hardware and software support to users.
-- Installation of Rubin Observatory licensed software and provisioning of end user systems.
-- Follow policies and procedures, but also contribute to the creation of new ones
-- Keep up to date Inventory
+.. include:: areas/desktop.rst
 
-Monitoring
-----------
-- Network monitoring
-- Server monitoring
-- Service monitoring
-- Environmental variables (Comp. Room) monitoring
-- Cybersecurity threats detection
-- Centralized log servers
-- Notifications of outages.
-- Preemptive alarms
+.. include:: areas/monitoring.rst
 
 Deployment
 ----------
@@ -50,16 +31,9 @@ See also :cite:`ITTN-002`
 Configuration management
 ------------------------
 
+.. include:: areas/infrastructure.rst
 
-Authentication and Authorization
---------------------------------
-- Cybersecurity plan compliant
-- 2FA
-- Single account across multiple systems.
-- Admin privileges via escalation (sudo)
-- Unified identity system
-- Flat policy system
-- Reasonable delegation and self service
+.. include:: areas/authentication.rst
 
 Storage
 -------
@@ -76,13 +50,7 @@ We will focus our efforts in to keep confidentiality and integrity of the inform
 
 We will enforce policies and keep systems up to date to strengthen the security of data and systems.
 
-Backup
-------
-- Data protection
-- Disaster Recovery
-- Automated multi-platform protection
-- File and system recovery.
-- Virtual Tape Library
+.. include:: areas/backup.rst
 
 Video Conference
 ----------------
