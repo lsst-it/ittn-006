@@ -36,13 +36,18 @@ Vera Rubin Observatory Cyber Infrastructure stack.
 
 Organization
 ============
+
+The IT group in Rubin Observatory has the following organization:
+
+.. figure:: images/IT_Org.jpg
+
 IT north and south share a single Jira system where tickets can be tracked.
 
 The IHS project contains the first line help desk tickets which may be assigned to IT north, south or the Data Facility.See also https://confluence.lsstcorp.org/display/~dtapia/How+to+file+a+JIRA+Ticket+for+IT+User+Support.
 The ITIL based Helpdesk is described in Detail on https://confluence.lsstcorp.org/display/IT/LSST+ITSI+-+IT+Service+Desk [#]_
 
 
-There is also an IT Support project which relates more to Rubin development oriented IT planning. The priorities for IT planning are set with the Telescope ad Site project manger and may be viewed on 
+There is also an IT Support project which relates more to Rubin development oriented IT planning. The priorities for IT planning are set with the Telescope ad Site project manger and may be viewed on
 https://confluence.lsstcorp.org/display/IT/IT+Chile+Priorities
 
 
@@ -57,9 +62,9 @@ IT North and South and interactions
 
 IT South
 --------
-The IT South group has the following organization
+The IT South group is divided in 3 main areas: Infrastructure, Networking and Helpdesk.
 
-.. figure:: images/CI-LSST.png
+Infrastructure and Networking provide support and development to the production environment of Rubin Observatory.
 
 Helpdesk support is provided by a contractor, covering both sites (base and summit).
 
