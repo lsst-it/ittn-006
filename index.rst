@@ -18,9 +18,9 @@
 Introduction
 ============
 
-In this document we layout the IT approach to the Rubin Observatory  construction. It will refer to other specific tech notes for details. 
+In this document we layout the IT approach to the Rubin Observatory  construction. It will refer to other specific tech notes for details.
 
-We wish to build a modern approach to IT just close enough to the cutting edge to allow us remain current at the start of operations but preferably not quite the bleeding edge. 
+We wish to build a modern approach to IT just close enough to the cutting edge to allow us remain current at the start of operations but preferably not quite the bleeding edge.
 To best support deployment we must have an element of research and development in the IT team.
 
 The general Cyber Infrastructure approach of LSST is layered as in the diagram :ref:`Cyber Infrastructure <fig-ci-lsst>` from :cite:`2019arXiv190713060O`
@@ -36,7 +36,7 @@ Vera Rubin Observatory Cyber Infrastructure stack.
 
 Organization
 ============
-IT north and south share a single Jira system where tickets can be tracked. 
+IT north and south share a single Jira system where tickets can be tracked.
 
 The IHS project contains the first line help desk tickets which may be assigned to IT north, south or the Data Facility.See also https://confluence.lsstcorp.org/display/~dtapia/How+to+file+a+JIRA+Ticket+for+IT+User+Support.
 The ITIL based Helpdesk is described in Detail on https://confluence.lsstcorp.org/display/IT/LSST+ITSI+-+IT+Service+Desk [#]_
@@ -47,32 +47,41 @@ https://confluence.lsstcorp.org/display/IT/IT+Chile+Priorities
 
 
 The IT managers north and south Tag up on Monday with the deputy project manager for software to
-discuss issues concerning IT in general. 
+discuss issues concerning IT in general.
 
-The IT manager south, DF Manager, T&S Software Manager and DM SQuaRE manager tag up with the deputy project manager for software to discuss cross cutting issues and priorities. 
+The IT manager south, DF Manager, T&S Software Manager and DM SQuaRE manager tag up with the deputy project manager for software to discuss cross cutting issues and priorities.
 
 IT North and South and interactions
------------------------------------ 
-- Weekly tag up Monday 
+-----------------------------------
+- Weekly tag up Monday
 
 IT South
 --------
-- Daily group standup
-- Weekly Devops standup
-- Weekly IT group meeting
-- Monthly tickets clean up meeting
+The IT South group has the following organization
+
+.. figure:: images/CI-LSST.png
+
+Helpdesk support is provided by a contractor, covering both sites (base and summit).
+
+To organize work, there are several scheduled meetings covering all the aspects of the IT operations in the South.
+
+- Daily group standup: Everyday at the beginning of the day, each team member reports in Slack the planned work for the day.
+- Weekly Devops standup: Videoconference meeting happening 3 days per week to discuss infrastructure related work.
+- Weekly Network standup: Videoconference meeting happening 3 days per week to discuss network related work.
+- Weekly IT group meeting: In person meeting to discuss all work of the week and upcoming work.
+- Monthly tickets clean up meeting: In person meeting to review and close Jira tickets.
 
 IT North
 --------
-- 
+-
 
 The physical locations are discussed in :ref:`physicallocs`
 
-.. [#] This should not be in confluence but rather a tech note. 
+.. [#] This should not be in confluence but rather a tech note.
 
 
 .. include:: physical.rst
- 
+
 .. include:: telescope.rst
 
 .. include:: areas.rst
@@ -87,7 +96,7 @@ Interactions/Interface
 
 .. include:: openissues.rst
 
-.. include:: acronyms.rst 
+.. include:: acronyms.rst
 
 .. rubric:: References
 
