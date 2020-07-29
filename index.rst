@@ -58,7 +58,7 @@ The IT manager south, DF Manager, T&S Software Manager and DM SQuaRE manager tag
 
 IT North and South and interactions
 -----------------------------------
-- Weekly tag up Monday
+IT North and South meet every week on Monday to discuss current and future work of the network. 
 
 IT South
 --------
