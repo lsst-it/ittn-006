@@ -6,5 +6,5 @@ The building was built on top of a seismic base isolation and features keyless a
 
 Network infrastructure deployment can be reviewed in the following links:
 
-- `La Serena Datacenter Fiber/Copper Deployment https://ittn-026.lsst.io/`_
-- `La Serena Building Fiber/Copper Deployment https://ittn-025.lsst.io/`_
+- `La Serena Datacenter Fiber/Copper Deployment <https://ittn-026.lsst.io/>`_
+- `La Serena Building Fiber/Copper Deployment <https://ittn-025.lsst.io/>`_

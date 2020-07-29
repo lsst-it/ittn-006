@@ -5,5 +5,5 @@ Access to the Data Center is monitored by a Rubin Observatory keyless access sys
 
 Network infrastructure deployment can be reviewed in the following links:
 
-- `Summit Fiber Deployments https://ittn-022.lsst.io/`_
-- `Fibers Outside Main Building https://ittn-024.lsst.io/`_
+- `Summit Fiber Deployments <https://ittn-022.lsst.io/>`_
+- `Fibers Outside Main Building <https://ittn-024.lsst.io/>`_
