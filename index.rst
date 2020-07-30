@@ -43,13 +43,8 @@ The IT group in Rubin Observatory has the following organization:
 
 IT north and south share a single Jira system where tickets can be tracked.
 
-The IHS project contains the first line help desk tickets which may be assigned to IT north, south or the Data Facility.See also https://confluence.lsstcorp.org/display/~dtapia/How+to+file+a+JIRA+Ticket+for+IT+User+Support.
-The ITIL based Helpdesk is described in Detail on https://confluence.lsstcorp.org/display/IT/LSST+ITSI+-+IT+Service+Desk [#]_
-
-
 There is also an IT Support project which relates more to Rubin development oriented IT planning. The priorities for IT planning are set with the Telescope ad Site project manger and may be viewed on
 https://confluence.lsstcorp.org/display/IT/IT+Chile+Priorities
-
 
 The IT managers north and south Tag up on Monday with the deputy project manager for software to
 discuss issues concerning IT in general.
@@ -58,7 +53,7 @@ The IT manager south, DF Manager, T&S Software Manager and DM SQuaRE manager tag
 
 IT North and South and interactions
 -----------------------------------
-IT North and South meet every week on Monday to discuss current and future work of the network. 
+IT North and South meet every week on Monday to discuss current and future work of the network.
 
 IT South
 --------
