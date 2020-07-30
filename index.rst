@@ -86,11 +86,7 @@ The physical locations are discussed in :ref:`physicallocs`
 
 .. include:: documentation.rst
 
-Interactions/Interface
-======================
-- T&S
-- DM
-- OIR LAB
+.. include:: interactions.rst
 
 .. include:: openissues.rst
 

@@ -1,4 +1,4 @@
-.. _table-label: 
+.. _table-label:
 
 ======= ===========
 Acronym	Description
@@ -13,6 +13,7 @@ DOI	Digital Object Identifier
 IT	Information Technology
 ITIL	Information Technology Infrastructure Library
 ITTN	IT Tech Note (Document Handle)
+LHN Long Haul Network
 LSE	LSST Systems Engineering (Document Handle)
 LSST	Legacy Survey of Space and Time (formerly Large Synoptic Survey Telescope)
 OIR	Optical Infrared
@@ -21,5 +22,5 @@ T\&S	Telescope and Site
 TOR	Top Of the Rack
 UPS	Uninterruptible power supply
 URL	Universal Resource Locator
-VRO	(not to be used)Vera C. Rubin Observatory
+USDF US Data Facilities
 ======= ===========
