@@ -19,3 +19,5 @@ Some of this may lead to updates to :cite:`LSE-309`.
 .. include:: areas/backup.rst
 
 .. include:: areas/videoconf.rst
+
+.. include:: areas/lhn.rst

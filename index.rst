@@ -82,8 +82,6 @@ The physical locations are discussed in :ref:`physicallocs`
 
 .. include:: physical.rst
 
-.. include:: telescope.rst
-
 .. include:: areas.rst
 
 .. include:: documentation.rst
