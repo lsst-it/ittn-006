@@ -23,7 +23,7 @@ In this document we layout the IT approach to the Rubin Observatory  constructio
 We wish to build a modern approach to IT just close enough to the cutting edge to allow us remain current at the start of operations but preferably not quite the bleeding edge.
 To best support deployment we must have an element of research and development in the IT team.
 
-The general Cyber Infrastructure approach of LSST is layered as in the diagram :ref:`Cyber Infrastructure <fig-ci-lsst>` from :cite:`2019arXiv190713060O`
+The general Cyber Infrastructure approach of Rubin Observatory is layered as in the diagram :ref:`Cyber Infrastructure <fig-ci-lsst>` from :cite:`2019arXiv190713060O`
 
 
 .. figure:: images/CI-LSST.png
@@ -46,7 +46,7 @@ IT north and south share a single Jira system where tickets can be tracked.
 There is also an IT Support project which relates more to Rubin development oriented IT planning. The priorities for IT planning are set with the Telescope ad Site project manger and may be viewed on
 https://confluence.lsstcorp.org/display/IT/IT+Chile+Priorities
 
-The IT managers north and south Tag up on Monday with the deputy project manager for software to
+The IT managers north and south tag up on Monday with the deputy project manager for software to
 discuss issues concerning IT in general.
 
 The IT manager south, DF Manager, T&S Software Manager and DM SQuaRE manager tag up with the deputy project manager for software to discuss cross cutting issues and priorities.
@@ -66,18 +66,14 @@ Helpdesk support is provided by a contractor, covering both sites (base and summ
 To organize work, there are several scheduled meetings covering all the aspects of the IT operations in the South.
 
 - Daily group standup: Everyday at the beginning of the day, each team member reports in Slack the planned work for the day.
-- Weekly Devops standup: Videoconference meeting happening 3 days per week to discuss infrastructure related work.
-- Weekly Network standup: Videoconference meeting happening 3 days per week to discuss network related work.
-- Weekly IT group meeting: In person meeting to discuss all work of the week and upcoming work.
-- Monthly tickets clean up meeting: In person meeting to review and close Jira tickets.
+- Weekly Devops standup: Videoconference/In person meeting happening 3 days per week to discuss infrastructure related work.
+- Weekly Network standup: Videoconference/In person meeting happening 3 days per week to discuss network related work.
+- Weekly IT group meeting: Videoconference/In person meeting to discuss all work of the week and upcoming work.
+- Monthly tickets clean: Videoconference/In person meeting to review and close Jira tickets.
 
 IT North
 --------
 -
-
-The physical locations are discussed in :ref:`physicallocs`
-
-.. [#] This should not be in confluence but rather a tech note.
 
 
 .. include:: physical.rst

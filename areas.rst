@@ -1,6 +1,6 @@
 Areas of work
 =============
-Some of this may lead to updates to :cite:`LSE-309`.
+Rubin IT divides its work in several areas to provide effective solutions for the observatory. The following are the main areas where IT provides support and development. 
 
 .. include:: areas/network.rst
 
