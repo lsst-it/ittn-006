@@ -22,6 +22,7 @@ LSST	  Legacy Survey of Space and Time (formerly Large Synoptic Survey Telescope
 NoirLab National Optical-Infrared Astronomy Research Laboratory
 OIR	    Optical Infrared
 SQuaRE	Science Quality and Reliability Engineering
+SRE     Site Reliability Engineering
 T\&S	  Telescope and Site
 TOR	    Top Of the Rack
 UPS	    Uninterruptible power supply

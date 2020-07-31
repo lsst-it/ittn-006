@@ -80,6 +80,8 @@ IT North
 
 .. include:: areas.rst
 
+.. include:: sre.srt
+
 .. include:: documentation.rst
 
 .. include:: interactions.rst

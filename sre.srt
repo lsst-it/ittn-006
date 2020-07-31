@@ -1,0 +1,10 @@
+Site Reliability Engineering
+============================
+Rubin IT adopts the Site Reliability Engineering methodology of work.
+Operations is approached as a software problem, engineers in the IT group use the following principles to operate:
+
+- Service Level Objectives: Services are managed by objectives, which are defined by all the stakeholders of such service. IT engineers follow these SLOs and act when these are not met.
+- Automation: Repetitive tasks are automated. There are still tasks that wont be possible to automate but the objective of the IT team is to automate as much as possible.
+- Share ownership with developers: There are no rigid boundaries between IT engineers and software developers. IT is more focused in production problems rather than the logic of the software.
+
+Details of the SRE implementation can be reviewed here [link to technote]
