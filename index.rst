@@ -43,9 +43,6 @@ The IT group in Rubin Observatory has the following organization:
 
 IT north and south share a single Jira system where tickets can be tracked.
 
-There is also an IT Support project which relates more to Rubin development oriented IT planning. The priorities for IT planning are set with the Telescope ad Site project manger and may be viewed on
-https://confluence.lsstcorp.org/display/IT/IT+Chile+Priorities
-
 The IT managers north and south tag up on Monday with the deputy project manager for software to
 discuss issues concerning IT in general.
 
@@ -77,6 +74,8 @@ IT North
 
 
 .. include:: physical.rst
+
+.. include:: planning.rst
 
 .. include:: areas.rst
 
