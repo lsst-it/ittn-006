@@ -8,3 +8,5 @@ Physical Locations
 .. include:: physical/summitdata.rst
 
 .. include:: physical/tucson.rst
+
+.. include:: physical/tucson-pmo.rst
