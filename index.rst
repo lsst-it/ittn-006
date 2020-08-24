@@ -70,6 +70,17 @@ To organize work, there are several scheduled meetings covering all the aspects 
 
 IT North
 --------
+The IT North group (aka Tucson group) has three primary roles: deliver PMO provided services, Helpdesk, Tucson on-site and particular off-site meeting support.
+
+PMO provide services include Atlassian Suite, Docushare, Teamwork Cloud & Magic Draw, PDM/Solidworks. 
+
+Helpdesk support is for all of the users of the various web based services, and particulare hardware support of end users and particular specialized groups.
+
+Meeting support consists of assisting meeting owners with AV and technical inside the Tucson building, general contractor and technical contact for PMO sponsored meetings or reviews, or technical advisor for meetings sponsored by other institutions.
+
+Under a steady state, our group uses rubinobs-it-tucson email, Slack, and Jira's comments and work log to keep informed. Our group is physically located in a single office and can meet regularlary when necessary. We also meet for one-on-ones related to training or particular questions or issues.
+
+
 -
 
 
